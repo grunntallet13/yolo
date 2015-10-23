@@ -1,5 +1,5 @@
 def yolo():
-    print("YOLO!!!")
+    print("Hey dude! YOLO!!!")
 
 if __name__ == "__main__":
     yolo()
